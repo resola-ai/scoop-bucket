@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/resola-ai/edge-cli/releases/download/v0.1.0/edge_windows_amd64.zip",
+            "bin": [
+                "edge.exe"
+            ],
+            "hash": "381584aab55bce4749a7f139c7bd8deafeebeef8df662b807bbf65ae3ff9799b"
+        },
+        "arm64": {
+            "url": "https://github.com/resola-ai/edge-cli/releases/download/v0.1.0/edge_windows_arm64.zip",
+            "bin": [
+                "edge.exe"
+            ],
+            "hash": "18fa5957713b500f8ed40ae552877caa5a8128b46c61c88afae74380472b9629"
+        }
+    },
+    "homepage": "https://docs.edge.deca.cloud/reference/cli.html",
+    "license": "Proprietary",
+    "description": "Command-line interface for DECA Edge"
+}
