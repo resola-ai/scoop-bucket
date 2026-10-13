@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/resola-ai/edge-cli/releases/download/v0.1.0/edge_windows_amd64.zip",
+            "url": "https://github.com/resola-ai/edge-cli/releases/download/v0.1.1/edge_windows_amd64.zip",
             "bin": [
                 "edge.exe"
             ],
-            "hash": "381584aab55bce4749a7f139c7bd8deafeebeef8df662b807bbf65ae3ff9799b"
+            "hash": "505a94d771a35e671dd7481c656559f2f3828e9077fc53462eed72fd13cea89f"
         },
         "arm64": {
-            "url": "https://github.com/resola-ai/edge-cli/releases/download/v0.1.0/edge_windows_arm64.zip",
+            "url": "https://github.com/resola-ai/edge-cli/releases/download/v0.1.1/edge_windows_arm64.zip",
             "bin": [
                 "edge.exe"
             ],
-            "hash": "18fa5957713b500f8ed40ae552877caa5a8128b46c61c88afae74380472b9629"
+            "hash": "ed855a5f23c086d6f53d358571f96ace846832be1dca851581d2f4dd3466cc29"
         }
     },
     "homepage": "https://docs.edge.deca.cloud/reference/cli.html",
