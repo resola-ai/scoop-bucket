@@ -6,14 +6,14 @@
             "bin": [
                 "edge.exe"
             ],
-            "hash": "505a94d771a35e671dd7481c656559f2f3828e9077fc53462eed72fd13cea89f"
+            "hash": "1434c06160148a801995e4d57b5ef502f3883f9602598e2bba887df6dde9d388"
         },
         "arm64": {
             "url": "https://github.com/resola-ai/edge-cli/releases/download/v0.1.1/edge_windows_arm64.zip",
             "bin": [
                 "edge.exe"
             ],
-            "hash": "ed855a5f23c086d6f53d358571f96ace846832be1dca851581d2f4dd3466cc29"
+            "hash": "142e74b9c98de8673135e2f3b9738760dc3cdbc95197b97712277995c0ea684f"
         }
     },
     "homepage": "https://docs.edge.deca.cloud/reference/cli.html",
